@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="705a5edb-1f12-41a3-a9da-d103c200797d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/BalancedBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/BalancedBrackets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/BalancedBracketsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/BalancedBracketsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/main/BalancedBrackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/main/BalancedBrackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,42 +195,55 @@
       <option name="presentableId" value="Default" />
       <updated>1572212264650</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished studio and set 12 testers.">
+      <created>1599094965015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599094965015</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished studio and set 12 testers." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished studio and set 12 testers." />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1480" y="264" key="#Project_Structure" timestamp="1599066322237">
       <screen x="-1920" y="90" width="1920" height="1200" />
     </state>
     <state x="-1480" y="264" key="#Project_Structure/0.0.2560.1440/-1920.90.1920.1200@-1920.90.1920.1200" timestamp="1599066322237" />
-    <state width="1877" height="334" key="GridCell.Tab.0.bottom" timestamp="1599094496850">
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom" timestamp="1599095426767">
       <screen x="-1920" y="90" width="1920" height="1200" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1920.90.1920.1200@-1920.90.1920.1200" timestamp="1599094496850" />
-    <state width="1877" height="334" key="GridCell.Tab.0.center" timestamp="1599094496850">
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1920.90.1920.1200@-1920.90.1920.1200" timestamp="1599095426767" />
+    <state width="1877" height="334" key="GridCell.Tab.0.center" timestamp="1599095426767">
       <screen x="-1920" y="90" width="1920" height="1200" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.center/0.0.2560.1440/-1920.90.1920.1200@-1920.90.1920.1200" timestamp="1599094496850" />
-    <state width="1877" height="334" key="GridCell.Tab.0.left" timestamp="1599094496849">
+    <state width="1877" height="334" key="GridCell.Tab.0.center/0.0.2560.1440/-1920.90.1920.1200@-1920.90.1920.1200" timestamp="1599095426767" />
+    <state width="1877" height="334" key="GridCell.Tab.0.left" timestamp="1599095426767">
       <screen x="-1920" y="90" width="1920" height="1200" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.left/0.0.2560.1440/-1920.90.1920.1200@-1920.90.1920.1200" timestamp="1599094496849" />
-    <state width="1877" height="334" key="GridCell.Tab.0.right" timestamp="1599094496850">
+    <state width="1877" height="334" key="GridCell.Tab.0.left/0.0.2560.1440/-1920.90.1920.1200@-1920.90.1920.1200" timestamp="1599095426767" />
+    <state width="1877" height="334" key="GridCell.Tab.0.right" timestamp="1599095426767">
       <screen x="-1920" y="90" width="1920" height="1200" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.right/0.0.2560.1440/-1920.90.1920.1200@-1920.90.1920.1200" timestamp="1599094496850" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/BalancedBracketsTest.java</url>
-          <line>62</line>
-          <properties class="test.BalancedBracketsTest" method="testAlwaysFailIfStartsWithOpenBracket">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1877" height="334" key="GridCell.Tab.0.right/0.0.2560.1440/-1920.90.1920.1200@-1920.90.1920.1200" timestamp="1599095426767" />
+    <state x="-1368" y="423" key="Vcs.Push.Dialog.v2" timestamp="1599094968546">
+      <screen x="-1920" y="90" width="1920" height="1200" />
+    </state>
+    <state x="-1368" y="423" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.90.1920.1200@-1920.90.1920.1200" timestamp="1599094968546" />
   </component>
 </project>
